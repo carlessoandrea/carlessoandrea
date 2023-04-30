@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @carlessoandrea
-- 👀 I’m interested in web design, print, programming, photography and do-it-yourself
-- 🌱 I’m currently learning Computer Science at University of Insubria
-- 💭 ~ Everything will be so good so soon, just hang in there & don't worry about it too much ~
-- 📫 How to reach me: instagram <a href="https://instagram.com/carleandrea" target="_blank">@carleandrea</a>
+- 👋 Hi, I'm @carlessoandrea
+- 👀 I am interested in web design, printing, programming, photography and DIY
+- 🧑🏻‍🎓 Graduated in Computer Science at the University of Insubria
+- 💭 ~ Everything will be so good so soon, hold on and don't worry too much ~
